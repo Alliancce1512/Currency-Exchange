@@ -1,0 +1,13 @@
+# API Configuration Template
+# Copy this file to local.properties and add your actual API keys
+# local.properties is ignored by git for security
+
+# Exchange Rate API Configuration
+EXCHANGE_RATE_API_KEY=your_api_key_here
+EXCHANGE_RATE_BASE_URL=https://v6.exchangerate-api.com/v6/
+
+# Instructions:
+# 1. Copy this file to local.properties
+# 2. Replace 'your_api_key_here' with your actual API key
+# 3. Update the base URL if needed
+# 4. local.properties will be ignored by git automatically

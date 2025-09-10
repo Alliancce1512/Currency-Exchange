@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Fibank</string>
+    
+    <!-- Currency Selection Screen -->
+    <string name="currency_converter_title">Currency Converter</string>
+    <string name="currency_converter_subtitle">Select currencies and enter amount to convert</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="amount_label">Amount</string>
+    <string name="amount_placeholder">Enter amount</string>
+    <string name="from_currency_label">From Currency</string>
+    <string name="to_currency_label">To Currency</string>
+    <string name="select_currency_placeholder">Select currency</string>
+    <string name="continue_to_conversion">Continue to Conversion</string>
+    <string name="select_currency_dialog_title">Select Currency</string>
+    <string name="search_currency_placeholder">Search currencies...</string>
+    <string name="no_currencies_found">No currencies found</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Currency Conversion Screen -->
+    <string name="currency_conversion_title">Currency Conversion</string>
+    <string name="back_content_description">Back</string>
+    <string name="refresh_rates_content_description">Refresh rates</string>
+    <string name="reverse_currencies_content_description">Reverse currencies</string>
+    <string name="amount_to_convert_label">Amount to convert</string>
+    <string name="converted_amount_label">Converted Amount</string>
+    <string name="exchange_rate_label">Exchange Rate</string>
+    <string name="unable_to_convert_message">Unable to convert. Please check your input.</string>
+    <string name="exchange_rate_info">Exchange rates are updated daily and provided by ExchangeRate-API</string>
+    
+    <!-- Currency Pair Display -->
+    <string name="currency_pair_format">%1$s to %2$s</string>
+    <string name="exchange_rate_format">1 %1$s = %2$.4f %3$s</string>
+    <string name="converted_amount_format" formatted="false">%.2f %s</string>
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+</resources>
